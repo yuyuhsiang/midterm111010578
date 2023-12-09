@@ -1,0 +1,9 @@
+def draw_cat():
+    cat = """
+ /\_/\ 
+( o.o )
+ > ^ <
+    """
+    print(cat)
+
+draw_cat()
